@@ -122,4 +122,4 @@ Simplified Payment Verification software is not affected, unless it makes assump
 
 ==Implementation==
 
-https://github.com/gavinandresen/bitcoinxt/tree/blocksize_fork
+https://github.com/gavinandresen/bitcoin-git/tree/blocksize_fork_0.12
